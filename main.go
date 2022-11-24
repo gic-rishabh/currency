@@ -1,8 +1,8 @@
 package main
 
 import (
-	"currency-Cnvt/model"
-	"currencyCnvt/service"
+	"currency/model"
+	"currency/service"
 	"encoding/json"
 	"fmt"
 	"log"
