@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"currencyCnvt/model"
+	"currency/model"
 	"errors"
 	"log"
 
